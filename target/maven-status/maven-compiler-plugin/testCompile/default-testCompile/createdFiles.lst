@@ -1,0 +1,6 @@
+testBase/testClasses/loginTests.class
+testBase/testClasses/mainRunner.class
+testBase/testClasses/DashboardTests.class
+Hooks/WebStepImplementation.class
+testBase/testClasses/CartTest.class
+testBase/testClasses/BaseTest.class
